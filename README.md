@@ -1,3 +1,3 @@
 # page1
 
-Link to [home](./verajaime.github.io)
+Link to [home](/)
