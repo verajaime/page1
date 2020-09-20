@@ -1,3 +1,3 @@
 # page1
 
-Link to [home](./)
+Link to [home](./verajaime)
